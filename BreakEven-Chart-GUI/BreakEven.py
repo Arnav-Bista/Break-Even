@@ -2,7 +2,7 @@
 import numpy as np
 import seaborn as sns
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
-
+import sys
 
 
 #GLOBALS
